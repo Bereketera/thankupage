@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&family=Roboto:wght@300;400&family=Ubuntu&display=swap');@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&family=Roboto:wght@300&family=Ubuntu&display=swap');
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.topt h3{
+    padding-top: 700px;
+    font-family: poppins;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 50px;
+
+
+}
+.footer{
+    font-family: poppins;
+    background-color: #C4A484;
+   position: absolute;
+   bottom: 0;
+   font-size: 30px;
+   padding-top: 50px;
+   width: 100%;
+}
